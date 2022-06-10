@@ -1,0 +1,37 @@
+<resources>
+    <!--Configuração String do Aplicativo-->
+    <string name="app_name">Cadastrar Cliente</string>
+    <!--Configuração Nome Titulos-->
+    <string name="titulo_cadastro">Cadastro</string>
+    <string name="titulo_listar">Listar</string>
+    <string name="titulo_alterar">Integrantes</string>
+    <string name="titulo_excluir">Excluir</string>
+    <string name="titulo_sobre">Sobre</string>
+    <string name="titulo_sair">Sair</string>
+    <!--Configuração de Sub Titulos-->
+    <string name="sub_titulo_cliente">Cadastro Cliente</string>
+    <string name="sub_titulo_listar">Lista Clientes</string>
+    <string name="sub_titulo_detalhes">Detalhes Cliente</string>
+    <string name="sub_titulo_descricao">Descrição do App</string>
+    <!--Configuração Campo-->
+    <string name="txt_campo_nome">Nome Completo</string>
+    <string name="txt_campo_celular">(xx) xxxxx-xxxx</string>
+    <string name="txt_campo_email">exemplo@email.com</string>
+    <string name="txt_campo_endereco">Av.Boa Vista</string>
+    <string name="txt_campo_observacao">Observação (Opcional)</string>
+    <!--Configuração do Botão-->
+    <string name="btn_cadastro">Cadastro</string>
+    <string name="btn_alterar">Alterar</string>
+    <!--Configuração Texto-->
+    <string name="txt_resultado">Resultado...</string>
+    <string name="title_activity_integrantes">IntegrantesActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
